@@ -243,9 +243,9 @@ $$
 $$
 
 di mana:
-- \( y_i \) adalah nilai aktual,
-- \( \hat{y}_i \) adalah nilai prediksi,
-- \( n \) adalah jumlah sampel.
+- $y_i$ adalah nilai aktual,
+- $\hat y_i$ adalah nilai prediksi,
+- $n$ adalah jumlah sampel.
 
 MSE memberikan penalti yang lebih besar untuk kesalahan yang lebih besar karena penggunaan kuadrat kesalahan. Nilai MSE yang lebih rendah menunjukkan performa model yang lebih baik.
 
