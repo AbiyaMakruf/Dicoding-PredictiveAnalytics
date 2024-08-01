@@ -4,7 +4,7 @@
 
 Proyek ini berhasil mendapatkan bintang 4/5 pada submission dicoding course machine learning terapan.
 
-![Penilaian Submission](https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-PredictiveAnalytics/main/image/output6.png)
+<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-PredictiveAnalytics/main/image/output6.png" width="500">
 
 ## Domain Proyek
 
